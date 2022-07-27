@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "CommonJS",
+    "declaration": true,
+    "target": "esnext",
+    "removeComments": true
+  }
+}

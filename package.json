@@ -1,0 +1,33 @@
+{
+  "name": "easy-html-to-pdf",
+  "version": "1.0.0",
+  "description": "Convert and render HTML files easily to a PDF file",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "html2pdf",
+    "pdf",
+    "file"
+  ],
+  "maintainers": [
+    {
+      "name": "Archit Jain",
+      "email": "architjn93@gmail.com"
+    }
+  ],
+  "author": "Archit Jain",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.5.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.6"
+  }
+}
