@@ -1,6 +1,6 @@
 {
   "name": "easy-html-to-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert and render HTML files easily to a PDF file",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
