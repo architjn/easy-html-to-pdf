@@ -13,9 +13,20 @@
   },
   "keywords": [
     "html2pdf",
+    "html-to-pdf",
+    "easy-html-to-pdf",
+    "htmlpdf",
     "pdf",
-    "file"
+    "file",
+    "generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architjn/easy-html-to-pdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/architjn/easy-html-to-pdf/issues"
+  },
   "maintainers": [
     {
       "name": "Archit Jain",
